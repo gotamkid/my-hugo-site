@@ -30,10 +30,10 @@ To downplay or minimize the negative aspects of a social or moral issue, or to d
    its according to the rules of the past.
 
 3. **Claim good stuff from other cultures**
-   portray really good things from other cultures as bad and later reintroduce the same thing as original.
+   portray really good things from other cultures as bad and later reintroduce the same thing as our original.
    reject the previous culture and its existance.
    build and propagate false narratives to defend and cover up the stealing of culture.
-   all good stuff always belonged to us.
+   all good stuff always belonged to us. it exists for us only.
 
 **Conclusion**
 Its good, if you are making money out of it.
