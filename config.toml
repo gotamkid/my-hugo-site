@@ -1,0 +1,4 @@
+baseURL = 'https://thoughtsfromclouds.netlify.app'
+languageCode = 'en-us'
+title = 'Random Thoughts.'
+theme = "hugo-bearblog"
