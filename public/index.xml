@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random Thoughts.</title>
+    <title>Thoughts from the Clouds</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Random Thoughts.</description>
+    <description>Recent content on Thoughts from the Clouds</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Sep 2024 04:44:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 14:00:17 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law and Judgement</title>
+      <link>http://localhost:1313/blog/law-and-judgement/</link>
+      <pubDate>Sat, 14 Sep 2024 14:00:17 +0530</pubDate>
+      <guid>http://localhost:1313/blog/law-and-judgement/</guid>
+      <description>&lt;p&gt;This is a page about »Idioms«.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Sat, 14 Sep 2024 08:27:16 +0530</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;p&gt;Hi, Welcome to my blog.&#xA;I&amp;rsquo;m just another person who likes to write about things.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/image.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Whitewashing</title>
       <link>http://localhost:1313/blog/whitewashing/</link>

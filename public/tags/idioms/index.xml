@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idioms on Thoughts from the Clouds</title>
+    <link>http://localhost:1313/tags/idioms/</link>
+    <description>Recent content in Idioms on Thoughts from the Clouds</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2024 14:00:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/idioms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law and Judgement</title>
+      <link>http://localhost:1313/blog/law-and-judgement/</link>
+      <pubDate>Sat, 14 Sep 2024 14:00:17 +0530</pubDate>
+      <guid>http://localhost:1313/blog/law-and-judgement/</guid>
+      <description>&lt;p&gt;This is a page about »Idioms«.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

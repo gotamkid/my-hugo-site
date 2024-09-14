@@ -7,7 +7,7 @@ date = "2024-09-14T04:44:25+05:30"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = []
+tags = ["Opinion"]
 +++
 
 ### **A pragmatic view on western approach to social and moral issues**
