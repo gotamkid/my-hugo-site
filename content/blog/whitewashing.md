@@ -10,7 +10,7 @@ date = "2024-09-14T04:44:25+05:30"
 tags = []
 +++
 
-# **A pragmatic view on western approach to social and moral issues**
+### **A pragmatic view on western approach to social and moral issues**
 
 **What is Whitewashing?**\
 To downplay or minimize the negative aspects of a social or moral issue, or to downplay the positive aspects of an issue.
@@ -33,14 +33,15 @@ To downplay or minimize the negative aspects of a social or moral issue, or to d
 
 3. **Claim good stuff from other cultures**
 
-   portray really good things from other cultures as bad and later reintroduce the same thing as our original.\
+   portray really good things from other cultures as bad\
+   and later reintroduce the same thing as our original.\
    reject the previous culture and its existance.\
    build and propagate false narratives to defend and cover up the stealing of culture.\
    all good stuff always belonged to us. it exists for us only.
 
-**Conclusion**
+**Conclusion:**
 
-Its good, if you are making money out of it.\
-It is called WHITEwashing for a reason.
+Its good, if you are making money out of it,\
+It is called WHITEwashing for a reason,
 
 ...and thats it for now.
